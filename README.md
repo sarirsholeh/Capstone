@@ -1,2 +1,1 @@
-# Capstone
-Applied Data Science
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://th.bing.com/th/id/R.fb560c5adbf4dec76e8333bc528d7ce6?rik=T2TaZgUcSFD9jQ&pid=ImgRaw&r=0)
